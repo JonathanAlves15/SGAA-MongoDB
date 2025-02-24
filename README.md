@@ -31,6 +31,6 @@ erDiagram
         int treinador_id
     }
 
-    ALUNO ||--o{ TREINO: "Possui"
-    TREINADOR ||--o{ TREINO: "Orientador"
+    ALUNO ||--o{ TREINO: "Executa"
+    TREINADOR ||--o{ TREINO: "Orienta"
     TREINO ||--o{ EXERCICIO: "Tem"
