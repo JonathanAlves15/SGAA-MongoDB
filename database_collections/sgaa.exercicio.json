@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  },
+  "descricao": "exercicio de peito",
+  "intervalo_descanso": 120,
+  "nome": "Supino inclinaod",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a45"
+  },
+  "descricao": "exercicio de peito",
+  "intervalo_descanso": 120,
+  "nome": "Supino reto",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a44"
+  },
+  "descricao": "exercicio de peito",
+  "intervalo_descanso": 120,
+  "nome": "Voador frontal",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a43"
+  },
+  "descricao": "exercicio de peito",
+  "intervalo_descanso": 120,
+  "nome": "Crucifixo declinado na polia",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  },
+  "descricao": "exercicio de perna",
+  "intervalo_descanso": 120,
+  "nome": "Cadeira extensora",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a40"
+  },
+  "descricao": "exercicio de perna",
+  "intervalo_descanso": 120,
+  "nome": "Cadeira flexora",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a39"
+  },
+  "descricao": "exercicio de perna",
+  "intervalo_descanso": 120,
+  "nome": "Leg press",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a38"
+  },
+  "descricao": "Exercício de perna",
+  "intervalo_descanso": 180,
+  "nome": "Levantamento terra",
+  "repeticoes_serie": 5,
+  "series": 4,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "descricao": "exercicio de perna",
+  "intervalo_descanso": 120,
+  "nome": "Agachamento",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "exercicio de perna",
+  "intervalo_descanso": 120,
+  "nome": "Mesa flexora",
+  "repeticoes_serie": 10,
+  "series": 3,
+  "treino": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  }
+}]

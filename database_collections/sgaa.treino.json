@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a46"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "Treino de perna",
+  "dia_semana": "Sábado",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "descricao": "Treino de peito",
+  "dia_semana": "Segunda",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a42"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "descricao": "Treino de perna",
+  "dia_semana": "Terça",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a42"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a38"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "descricao": "Treino de perna",
+  "dia_semana": "Quarta",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a42"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a39"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "descricao": "Treino de perna",
+  "dia_semana": "Quinta",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a42"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a40"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a37"
+  },
+  "descricao": "Treino de perna",
+  "dia_semana": "Sexta",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a42"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "Treino de peito",
+  "dia_semana": "Segunda",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a42"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "Treino de costas",
+  "dia_semana": "Terça",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a43"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "Treino de perna",
+  "dia_semana": "Quarta",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a44"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "Treino de peito",
+  "dia_semana": "Quinta",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f85f36d6dfecacc68428a45"
+  },
+  "aluno": {
+    "$oid": "5f85f36d6dfecacc68428a36"
+  },
+  "descricao": "Treino de costas",
+  "dia_semana": "Sexta",
+  "treinador": {
+    "$oid": "5f85f36d6dfecacc68428a41"
+  }
+}]
