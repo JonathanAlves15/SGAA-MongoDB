@@ -1,6 +1,7 @@
 ## Diagrama
 
 erDiagram
+
     ALUNO {
         string nome
         int idade
