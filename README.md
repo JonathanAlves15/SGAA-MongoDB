@@ -1,3 +1,5 @@
+## Diagrama
+
 erDiagram
     ALUNO {
         string nome
