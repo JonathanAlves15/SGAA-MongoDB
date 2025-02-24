@@ -1,6 +1,7 @@
 ## Diagrama
 
 classDiagram
+
     class ALUNO {
         +string nome
         +int idade
